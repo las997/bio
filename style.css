@@ -1,0 +1,20 @@
+body {
+  background-color: cyan;
+   margin: auto;
+   width: 60%;
+   padding: 10px;
+}
+
+h1 {
+  font-family: tangerine, arial, times;
+  font-size: 46px
+}
+
+
+#my_photo {
+  width: 350px
+}
+
+#robotics_photo {
+  width: 400px
+}
